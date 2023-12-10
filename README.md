@@ -39,3 +39,25 @@ Este proceso es esencial para garantizar el rendimiento, la disponibilidad y la 
 
 - **Comandos para los puertos**
   - [`netstat`](red/netstat.md)
+
+## 3.- Sistemas de Monitorización
+
+### Nagios
+
+**Descripción:**
+Nagios es una plataforma de monitorización de código abierto que proporciona una visión centralizada del estado de los activos de red, servicios y sistemas. Utiliza plugins para recopilar datos y alertar sobre eventos críticos o problemas de rendimiento.
+
+### Zabbix
+
+**Descripción:**
+Zabbix es una solución integral de monitorización que ofrece la capacidad de supervisar diversos aspectos del entorno IT, incluyendo servidores, redes y aplicaciones. Proporciona gráficos, alertas y reportes para el análisis del rendimiento del sistema.
+
+### Prometheus
+
+**Descripción:**
+Prometheus es un sistema de monitorización y alerta de código abierto diseñado para entornos de contenedores. Se centra en la recopilación de métricas y ofrece consultas flexibles y alertas basadas en reglas para el análisis del rendimiento.
+
+### Grafana
+
+**Descripción:**
+Grafana es una plataforma de visualización de datos que se integra con varios sistemas de monitorización, incluyendo Prometheus, para crear dashboards interactivos y gráficos. Proporciona herramientas visuales para analizar y representar datos de manera efectiva.

@@ -1,4 +1,5 @@
 # Monitorizacion
+![Monitorizacion](https://cocosolution.com/cms/uploads/o_1eu5nfnsj9hg1pvq1hcv1l5ennha.png)
 
 ## 1.- Introducción
 La monitorización de servidores es el proceso fundamental de supervisar y recopilar datos acerca de:

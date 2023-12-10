@@ -20,7 +20,15 @@ Este proceso es esencial para garantizar el rendimiento, la disponibilidad y la 
 
 - **Comandos de Monitorización de Procesos:**
 
-  - `ps`
-  - `top`
-  - `htop`
-  - `atop`
+  - [`ps`](ps.md)
+  - [`top`](top.md)
+  - [`htop`](htop.md)
+  - [`atop`](atop.md)
+
+- **Comandos para Memoria, Espacio y Rendimiento del disco**
+  
+  - [`free`](free.md)
+  - [`df`](df.md)
+  - [`du`](du.md)
+  - [`iostat`](iostat.md)
+

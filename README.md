@@ -32,3 +32,10 @@ Este proceso es esencial para garantizar el rendimiento, la disponibilidad y la 
   - [`du`](/memoria/du.md)
   - [`iostat`](/memoria/iostat.md)
 
+- **Comandos para Tráfico de la red**
+  - [`tcpdump`](/red/tcpdump.md)
+  - [`tcptrack`](/red/tcptrack.md)
+  - [`iptraf`](/red/iptraf.md)
+
+- **Comandos para los puertos**
+  - [`netstat`](red/netstat.md)

@@ -27,8 +27,8 @@ Este proceso es esencial para garantizar el rendimiento, la disponibilidad y la 
 
 - **Comandos para Memoria, Espacio y Rendimiento del disco**
   
-  - [`free`](free.md)
-  - [`df`](df.md)
-  - [`du`](du.md)
-  - [`iostat`](iostat.md)
+  - [`free`](/memoria/free.md)
+  - [`df`](/memoria/df.md)
+  - [`du`](/memoria/du.md)
+  - [`iostat`](/memoria/iostat.md)
 
